@@ -1,0 +1,33 @@
+#s-1{
+    border-style: double;
+    border-width: 2px;
+    border-color: wheat;
+    text-align: center;
+    color: gold;
+}
+.abcd{
+    text-align: center;
+    border: 2px ;
+    color: gold;
+    border-style: double;
+    border-width: 2px;
+    border-top-left-radius: 1px;
+    border-color: whitesmoke;
+}
+.shcdr{
+    text-align: center;
+    border: 2px;
+    border-color: rgb(225, 208, 208);
+    border-style: double;
+}
+p{
+    color: aqua;
+
+}
+body{
+    background-image: url("https://damassets.autodesk.net/content/dam/autodesk/www/industry/3d-animation/create-beautiful-3d-animations-thumb-1204x677.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
